@@ -1,0 +1,9 @@
+yolov8-cls.yaml：这是YOLOv8的分类版本，主要用于目标分类任务。
+yolov8-p2.yaml：这是YOLOv8的P2版本，使用了更小的输入图像尺寸和更少的层级，适合于资源受限的环境。
+yolov8-p6.yaml：这是YOLOv8的P6版本，使用了更大的输入图像尺寸和更多的层级，适合于需要更高分辨率和更精细检测的任务。
+yolov8-pose-p6.yaml：这是YOLOv8的姿态估计和P6版本的组合，用于目标检测和人体姿态估计任务。
+yolov8-pose.yaml：这是YOLOv8的姿态估计版本，主要用于人体姿态估计任务。
+yolov8-rtdetr.yaml：这是YOLOv8的实时目标检测版本，旨在实现快速且准确的目标检测。
+yolov8-seg-p6.yaml：这是YOLOv8的分割和P6版本的组合，用于目标检测和语义分割任务。
+yolov8-seg.yaml：这是YOLOv8的语义分割版本，主要用于图像语义分割任务。
+yolov8.yaml：这是YOLOv8的基本版本，适用于通用目标检测任务。

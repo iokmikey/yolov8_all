@@ -1,0 +1,13 @@
+train: F:\Machine Learning\yolov8\ultralytics\ultralytics\reailty_run\datasets\worker_hat_vest\train\images
+val: F:\Machine Learning\yolov8\ultralytics\ultralytics\reailty_run\datasets\worker_hat_vest\valid\images
+test: F:\Machine Learning\yolov8\ultralytics\ultralytics\reailty_run\datasets\worker_hat_vest\test\images
+
+nc: 5
+names: ['helmet', 'no-helmet', 'no-vest', 'person', 'vest']
+
+roboflow:
+  workspace: roboflow-100
+  project: construction-safety-gsnvb
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/roboflow-100/construction-safety-gsnvb/dataset/2

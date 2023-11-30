@@ -1,0 +1,7 @@
+{names: [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety, Safety ,Cone, Vest, Person,
+    Safety Vest, machinery, vehicle],
+ nc: 12,
+ test: F:\Machine Learning\yolov8\ultralytics\ultralytics\reailty_run\datasets\worker_all\test\images,
+  train: F:\Machine Learning\yolov8\ultralytics\ultralytics\reailty_run\datasets\worker_all\train\images,
+ val: F:\Machine Learning\yolov8\ultralytics\ultralytics\reailty_run\datasets\worker_all\valid\images
+}
